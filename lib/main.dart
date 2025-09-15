@@ -67,6 +67,24 @@ class _BadHomePageState extends State<BadHomePage> {
             color: Colors.red,
             child: Text("Counter: $counter"),
           ),
+          Container(
+            margin: EdgeInsets.all(16),
+            padding: EdgeInsets.all(16),
+            color: Colors.red,
+            child: Text("Counter: $counter"),
+          ),
+          Container(
+            margin: EdgeInsets.all(16),
+            padding: EdgeInsets.all(16),
+            color: Colors.red,
+            child: Text("Counter: $counter"),
+          ),
+          Container(
+            margin: EdgeInsets.all(16),
+            padding: EdgeInsets.all(16),
+            color: Colors.red,
+            child: Text("Counter: $counter"),
+          ),
 
           // ❌ Long inline function
           ElevatedButton(
