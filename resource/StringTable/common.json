@@ -1,0 +1,52 @@
+{
+	"STR_LANGUAGE_TYPE" : {
+		"zh_CN" : "简体中文",
+		"zh_TW" : "正體中文",
+		"en_US" : "English"
+	},
+	"STR_BTN_OK" : {
+		"zh_CN" : "确定(&O)",
+		"zh_TW" : "確定(&O)",
+		"en_US" : "&OK"
+	},
+	"STR_BTN_CANCEL" : {
+		"zh_CN" : "取消(&C)",
+		"zh_TW" : "取消(&C)",
+		"en_US" : "&Cancel"
+	},
+	"STR_INFO":{
+		"zh_CN" : "信息",
+		"zh_TW" : "信息",
+		"en_US" : "Info"
+	},
+	"STR_ERROR" : {
+		"zh_CN" : "错误",
+		"zh_TW" : "錯誤",
+		"en_US" : "Error"
+	},
+	"STR_WARNING" : {
+		"zh_CN" : "警告",
+		"zh_TW" : "警告",
+		"en_US" : "Warning"
+	},
+	"STR_BTN_BROWSE" : {
+		"zh_CN" : "浏览(&B)",
+		"zh_TW" : "瀏覽(&B)",
+		"en_US" : "&Browse"
+	},
+	"STR_BTN_BACK" : {
+		"zh_CN" : "上一步(&B)",
+		"zh_TW" : "上一步(&B)",
+		"en_US" : "&Back"
+	},
+	"STR_BTN_NEXT" : {
+		"zh_CN" : "下一步(&N)",
+		"zh_TW" : "下一步(&N)",
+		"en_US" : "&Next"
+	},
+	"STR_BTN_FINISH" : {
+		"zh_CN" : "完成(&F)",
+		"zh_TW" : "完成(&F)",
+		"en_US" : "&Finish"
+	}
+}

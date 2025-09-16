@@ -1,0 +1,87 @@
+{
+	"STR_STATION_MODULE_WIDGET_TITLE" : {
+		"zh_CN" : "空间站模块",
+		"zh_TW" : "空間站模塊",
+		"en_US" : "Station Modules"
+	},
+	"STR_SHOW_FILTER" : {
+		"zh_CN" : "显示过滤选项(&S)",
+		"zh_TW" : "顯示過濾選項(&S)",
+		"en_US" : "&Show Filter"
+	},
+	"STR_HIDE_FILTER" : {
+		"zh_CN" : "隐藏过滤选项(&H)",
+		"zh_TW" : "隱藏過濾選項(&H)",
+		"en_US" : "&Hide Filter"
+	},
+	"STR_ADD_TO_STATION" : {
+		"zh_CN" : "添加到空间站(&A)",
+		"zh_TW" : "添加到空間站(&A)",
+		"en_US" : "&Add to Station"
+	},
+	"STR_BY_RACE" : {
+		"zh_CN" : "按种族(&R)",
+		"zh_TW" : "按種族(&R)",
+		"en_US" : "By &Race"
+	},
+	"STR_BY_PRODUCT" : {
+		"zh_CN" : "按产品(&P)",
+		"zh_TW" : "按產品(&P)",
+		"en_US" : "By &Product"
+	},
+	"STR_BY_RESOURCE" : {
+		"zh_CN" : "按资源(&E)",
+		"zh_TW" : "按資源(&E)",
+		"en_US" : "By R&esource"
+	},
+	"STR_BY_KEYWORD" : {
+		"zh_CN" : "按关键字(&K)",
+		"zh_TW" : "按關鍵字(&K)",
+		"en_US" : "By &Keyword"
+	},
+    "STATION_TYPE_BUILD": {
+        "zh_CN": "建造模块",
+        "zh_TW": "建造模塊",
+        "en_US": "Build Modules"
+    },
+    "STATION_TYPE_DOCK": {
+        "zh_CN": "停靠模块",
+        "zh_TW": "停靠模塊",
+        "en_US": "Dock Modules"
+    },
+    "STATION_TYPE_PRODUCTION": {
+        "zh_CN": "生产模块",
+        "zh_TW": "生產模塊",
+        "en_US": "Production Modules"
+    },
+    "STATION_TYPE_STORAGE": {
+        "zh_CN": "仓储模块",
+        "zh_TW": "倉儲模塊",
+        "en_US": "Storage Modules"
+    },
+    "STATION_TYPE_HABITATION": {
+        "zh_CN": "居住模块",
+        "zh_TW": "居住模塊",
+        "en_US": "Habitation Modules"
+    },
+    "STATION_TYPE_DEFENCE": {
+        "zh_CN": "防御模块",
+        "zh_TW": "防禦模塊",
+        "en_US": "Defence Modules"
+    },
+    "STATION_TYPE_CONNECT": {
+        "zh_CN": "连接模块",
+        "zh_TW": "鏈接模塊",
+        "en_US": "Connection Modules"
+    },
+    "STR_PRODUCT_NOT_FOUND": {
+        "zh_CN": "产品未找到!",
+        "zh_TW": "產品未找到!",
+        "en_US": "Product Not Found!"
+    },
+    "STR_RESOURCE_NOT_FOUND": {
+        "zh_CN": "资源未找到!",
+        "zh_TW": "資源未找到!",
+        "en_US": "Resource Not found!"
+    }
+}

@@ -1,0 +1,72 @@
+{
+	"STR_TITLE_NEW_FACTORY_WIZARD" : {
+		"zh_CN" : "新建工厂向导",
+		"zh_TW" : "新建工廠嚮導",
+		"en_US" : "New Factory Wizard"
+	},
+	"STR_STEP_SELECT_PRODUCTS" : {
+		"zh_CN" : "选择最终产品",
+		"zh_TW" : "選擇最終產品",
+		"en_US" : "Select Final Products"
+	},
+	"STR_STEP_SET_RACE" : {
+		"zh_CN" : "设置种族",
+		"zh_TW" : "設置種族",
+		"en_US" : "Set Race"
+	},
+	"STR_STEP_SET_RESOURCE" : {
+		"zh_CN" : "设置原料",
+		"zh_TW" : "設置原料",
+		"en_US" : "Set Resource"
+	},
+	"STR_STEP_FINISH" : {
+		"zh_CN" : "完成",
+		"zh_TW" : "完成",
+		"en_US" : "Finish"
+	},
+	"STR_SELECTABLE_PRODUCTS" : {
+		"zh_CN" : "可选产品",
+		"zh_TW" : "可選產品",
+		"en_US" : "Selectable Products :"
+	},
+	"STR_SELECTED_PRODUCTS" : {
+		"zh_CN" : "已选产品",
+		"zh_TW" : "已選產品",
+		"en_US" : "Selected Products :"
+	},
+	"STR_HEAD_PRODUCTS" : {
+		"zh_CN" : "产品",
+		"zh_TW" : "產品",
+		"en_US" : "Products"
+	},
+	"STR_HEAD_MINIMUM_PRODUCTION" : {
+		"zh_CN" : "最低产量",
+		"zh_TW" : "最低產量",
+		"en_US" : "Minimum Production"
+	},
+	"STR_RACE_OF_WORKFORCE" : {
+		"zh_CN" : "劳动力种族",
+		"zh_TW" : "勞動力種族",
+		"en_US" : "Race of Workforce"
+	},
+	"STR_ORDER_OF_PRODUCTION_METHOD" : {
+		"zh_CN" : "生产方式优先级",
+		"zh_TW" : "生產方式優先級",
+		"en_US" : "Order of Protuction Method"
+	},
+	"STR_WARE_BUTTON_PRODUCT" : {
+		"zh_CN" : "%1(目标产品)",
+		"zh_TW" : "%1(目標產品)",
+		"en_US" : "%1(Production)"
+	},
+	"STR_WARE_BUTTON_INTERMEDIATE" : {
+		"zh_CN" : "%1(中间产品)",
+		"zh_TW" : "%1(中間產品)",
+		"en_US" : "%1(Intermediate)"
+	},
+	"STR_WARE_BUTTON_RESOURCE" : {
+		"zh_CN" : "%1(原料)",
+		"zh_TW" : "%1(原料)",
+		"en_US" : "%1(Resource)"
+	}
+}

@@ -1,0 +1,102 @@
+{
+	"STR_CHECKING_GAME_PATH" :{
+		"zh_CN" : "正在检查游戏路径...",
+		"zh_TW" : "正在檢查遊戲路徑...",
+		"en_US" : "Checking game path..."
+	},
+	"STR_LOADING_VFS" :{
+		"zh_CN" : "正在加载虚拟文件系统...",
+		"zh_TW" : "正在加載虛擬文件系統...",
+		"en_US" : "Loading virtual filesystem..."
+	},
+	"STR_FAILED_OPEN_SHARED_MEMORY" : {
+		"zh_CN" : "打开共享内存失败!",
+		"zh_TW" : "打開共享內存失敗!",
+		"en_US" : "Failed to open shared memory!"
+	},
+	"STR_FAILED_LISTEN_SOCKET" : {
+		"zh_CN" : "监听socket失败!",
+		"zh_TW" : "監聽socket失敗!",
+		"en_US" : "Failed to listen socket!"
+	},
+	"STR_FAILED_OPEN_FILE" : {
+		"zh_CN" : "打开文件\"%1\"失败!",
+		"zh_TW" : "打開文件\"%1\"失敗!",
+		"en_US" : "Failed to open file \"%1\"!"
+	},
+	"STR_FILE_BROKEN" : {
+		"zh_CN" : "文件\"%1\"已损坏!",
+		"zh_TW" : "文件\"%1\"已損壞!",
+		"en_US" : "File \"%1\" is broken!"
+	},
+	"STR_LOADING_CAT_DAT_FILE" : {
+		"zh_CN" : "正在读取文件\"%1\"/\"%2\" (%3/%4)...",
+		"zh_TW" : "正在讀取文件\"%1\"/\"%2\" (%3/%4)...",
+		"en_US" : "Loading file \"%1\"/\"%2\" (%3/%4)..."
+	},
+	"STR_LOADING_TEXTS" :{
+		"zh_CN" : "正在加载游戏文本...",
+		"zh_TW" : "正在加載遊戲文本...",
+		"en_US" : "Loading game texts..."
+	},
+	"STR_LOADING_TEXT_FILE" : {
+		"zh_CN" : "正在读取字符串表(%1/%2)...",
+		"zh_TW" : "正在讀取字符串表(%1/%2)...",
+		"en_US" : "Loading string table (%1/%2)..."
+	},
+	"STR_FAILED_LOAD_STRINGS" : {
+		"zh_CN" : "加载游戏字符串表失败!",
+		"zh_TW" : "加載遊戲字符串表失敗!",
+		"en_US" : "Failed to load string table!"
+	},
+	"STR_LOADING_MACROS" :{
+		"zh_CN" : "正在加载游戏宏...",
+		"zh_TW" : "正在加載遊戲宏...",
+		"en_US" : "Loading game macros..."
+	},
+	"STR_FAILED_LOAD_MACROS" :{
+		"zh_CN" : "加载游戏宏失败!",
+		"zh_TW" : "加載遊戲宏失敗!",
+		"en_US" : "Failed to load game macros!"
+	},
+	"STR_LOADING_COMPONENTS" :{
+		"zh_CN" : "正在加载游戏零件...",
+		"zh_TW" : "正在加載遊戲零件...",
+		"en_US" : "Loading game components..."
+	},
+	"STR_FAILED_LOAD_COMPONENTS" :{
+		"zh_CN" : "加载游戏零件失败!",
+		"zh_TW" : "加載遊戲零件失敗!",
+		"en_US" : "Failed to load game components!"
+	},
+	"STR_LOADING_RACES" :{
+		"zh_CN" : "正在加载种族信息...",
+		"zh_TW" : "正在加載種族信息...",
+		"en_US" : "Loading game races..."
+	},
+	"STR_FAILED_LOAD_RACES" :{
+		"zh_CN" : "加载游戏种族信息失败!",
+		"zh_TW" : "加載遊戲種族信息失敗!",
+		"en_US" : "Failed to load game races!"
+	},
+	"STR_LOADING_WARES" :{
+		"zh_CN" : "正在加载物品信息...",
+		"zh_TW" : "正在加載物品信息...",
+		"en_US" : "Loading game wares..."
+	},
+	"STR_FAILED_LOAD_WARES" :{
+		"zh_CN" : "加载游戏物品信息失败!",
+		"zh_TW" : "加載遊戲物品信息失敗!",
+		"en_US" : "Failed to load game wares!"
+	},
+	"STR_LOADING_STATION_MODULES" :{
+		"zh_CN" : "正在加载空间站模块信息...",
+		"zh_TW" : "正在加載空間站模塊信息...",
+		"en_US" : "Loading informations of station modules..."
+	},
+	"STR_FAILED_LOAD_STATION_MODULES" :{
+		"zh_CN" : "加载空间站模块信息失败!",
+		"zh_TW" : "加載空間站模塊信息失敗!",
+		"en_US" : "Failed to load informations of station modules!"
+	}
+}

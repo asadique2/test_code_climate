@@ -1,0 +1,12 @@
+{ 
+	"STR_TITLE_LANGUAGE" : {
+		"zh_CN" : "语言设置",
+		"zh_TW" : "語言設置",
+		"en_US" : "Language Settings"
+	},
+	"STR_LANGUAGE" : {
+		"zh_CN" : "语言 :",
+		"zh_TW" : "語言 :",
+		"en_US" : "Language :"
+	}
+}
